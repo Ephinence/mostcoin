@@ -1,0 +1,2 @@
+# mostcoin
+MostCoin Wallet Project
